@@ -1,1 +1,1 @@
-# weather-app
+web app that shows the weather by city name, and includes features like humuidity, wind speed and even specifies whether current weather and wind conditions are ideal for cycling.
