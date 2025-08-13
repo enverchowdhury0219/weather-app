@@ -2,6 +2,8 @@
 
 A basic weather application that shows current conditions for a given city, including temperature, humidity, and wind speed.
 
+![Example Output](images/weather_app_output.png)
+
 ## Features
 - Search weather by city name
 - Displays:
